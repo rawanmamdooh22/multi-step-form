@@ -4,11 +4,9 @@
     font-family: sans-serif;
 }
 body{
-    /* background-color: rgb(255, 255, 222) !important; */
-    /* background-color: #DED0B6 !important; */
     background-repeat: no-repeat;
     background-image: url(image/depositphotos_458981364-stock-video-abstract-dark-hexagon-pattern-orange.jpg) !important;
-    /* background-position: center; */
+
     background-size: cover;
 }
 .container{
