@@ -9,12 +9,12 @@ var progress = document.getElementById("progress");
 next1.onclick = function () {
   form1.style.display = "none";
   form2.style.display = "block";
-  progress.style.width = "235px";
+  progress.style.width = "240px";
 };
 back1.onclick = function () {
   form1.style.display = "block";
   form2.style.display = "none";
-  progress.style.width = "335px";
+  progress.style.width = "120px";
 };
 next2.onclick = function () {
   form2.style.display = "none";
@@ -24,5 +24,5 @@ next2.onclick = function () {
 back2.onclick = function () {
   form2.style.display = "block";
   form3.style.display = "none";
-  progress.style.width = "335px";
+  progress.style.width = "230px";
 };
